@@ -1,6 +1,6 @@
-# Hack & Slash
+# Hack & Slash I
 
-# This is the first half of the game, the second half has more game features implemented
+(This is the first half of the game, the second half has more game features)
 
 Hack & Slash is a 2D game developed using Java, it is a simple and rudimentary game which compares 
 to an early era of gaming, including video games such as Legend of Zelda, Super Mario Bros, Contra etc. 
