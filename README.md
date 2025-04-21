@@ -9,6 +9,7 @@ where developing such games is pointless. This repository contains a video game 
 from scratch without the involvement of game engines and covers basic yet elementary blocks of building
 a game.
 
+
  
 All the basic functions implemented in this treasure hunting game:
 
