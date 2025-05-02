@@ -15,7 +15,7 @@ a game.
 
 - Main Window creation - subwindow where game runs
 - Gamepanel Implementation - superclass for all classes, paint and update function, fps 
-- Playable Character - Main character (1)
+- Playable Character - main character (1)
 - Walking Animation - alternating tiles and give sense of walking
 - Collision Detection - check collision with solid tiles such as water, trees, wall
 - Basic Environment - non - interactive background tiles
